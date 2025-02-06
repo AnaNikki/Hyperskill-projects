@@ -7,9 +7,9 @@ Every project I create helps me practice and strengthen my coding skills, prepar
 Feel free to follow along, and check out my progress! I’m excited to keep learning and sharing my projects with the world. 🚀
 
 ### 📂 Project List 📂
-- [Project 1: My First Project with Python 🐍]([#project-1-my-first-project-with-python-](https://github.com/AnaNikki/Hyperskill-projects/tree/main/My%20First%20Project%20with%20Python))
-- [Project 2: Zookeeper with Python 🦁]([#project-2-zookeeper-with-python-](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Zookeeper%20with%20Python))
-- [Project 3: Simple Chat Bot with Python 🤖]([#project-3-simple-chat-bot-with-python-](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Simple%20Chat%20Bot%20with%20Python))
+- [Project 1: My First Project with Python 🐍](https://github.com/AnaNikki/Hyperskill-projects/tree/main/My%20First%20Project%20with%20Python)
+- [Project 2: Zookeeper with Python 🦁](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Zookeeper%20with%20Python)
+- [Project 3: Simple Chat Bot with Python 🤖](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Simple%20Chat%20Bot%20with%20Python)
 
 ### Project 1: My First Project with Python 🐍
 This simple project helps us practice Python coding by building a program that automates our account management routine.
