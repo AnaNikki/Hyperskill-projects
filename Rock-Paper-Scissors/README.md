@@ -31,3 +31,15 @@ Topics covered:
 - Running Python applications in PyCharm
 - Dictionary
 - Random module
+
+### Stage 3 - Endelss game
+We can now play multiple game rounds.  
+Topics covered:
+- For loop
+- Integer arithmetic: special operations
+- PEP 8: Coding style guide
+- Comments
+- While loop
+- Loop control: break, continue, pass
+- Debugging Python applications in PyCharm
+- Avoiding bad comments
