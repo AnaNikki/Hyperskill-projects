@@ -11,10 +11,23 @@ Topics covered:
 - Basic data types
 - Variables
 - Integer arithmetic: basic operations
-- Taking user's input
+- Taking the user's input
 - Program with numbers
 - Boolean type and operations. True and false
 - Comparisons
 - If statement
 - Else statement
 - Elif statement
+
+### Stage 2 - Equalizing chances
+From now on, we’re going to play fair.  
+Topics covered:
+- Invoking functions
+- List
+- Importing modules
+- PyCharm basics
+- Quotes and multi-line strings
+- String formatting
+- Running Python applications in PyCharm
+- Dictionary
+- Random module
