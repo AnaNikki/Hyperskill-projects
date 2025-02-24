@@ -11,6 +11,7 @@ Feel free to follow along, and check out my progress! I’m excited to keep lear
 - [Project 1: My First Project with Python 🐍](https://github.com/AnaNikki/Hyperskill-projects/tree/main/My%20First%20Project%20with%20Python)
 - [Project 2: Zookeeper with Python 🦁](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Zookeeper%20with%20Python)
 - [Project 3: Simple Chat Bot with Python 🤖](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Simple%20Chat%20Bot%20with%20Python)
+- [Project 4: Rock-Paper-Scissors ✊ 🤚 ✌️](https://github.com/AnaNikki/Hyperskill-projects/tree/main/Rock-Paper-Scissors)
 
 ### Project 1: My First Project with Python 🐍
 This simple project helps us practice Python coding by building a program that automates our account management routine.
@@ -20,4 +21,7 @@ Dynamic zoo monitoring system for zookeepers. Visually tracks the well-being of 
 
 ### Project 2: Simple Chat Bot with Python 🤖
 A simple console chatbot that offers personalized greetings, engages users with fun tasks and adapts to user input.
+
+### Project 4: Rock-Paper-Scissors ✊ 🤚 ✌️
+A playable Rock-Paper-Scissors game, with a Player vs Computer mode.
 
